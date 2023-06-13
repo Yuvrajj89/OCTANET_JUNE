@@ -139,7 +139,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <button class="delete-button" onclick="deleteTask(event)"><i class="fa fa-trash-o"></i>&nbspDelete</button>
       </div>
     `;
-
+ 
     taskList.appendChild(taskItem);
   });
 
